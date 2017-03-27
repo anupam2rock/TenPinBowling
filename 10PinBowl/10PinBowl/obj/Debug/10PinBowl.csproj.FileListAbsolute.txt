@@ -1,0 +1,5 @@
+C:\Users\anupam\Documents\Visual Studio 2015\Projects\10PinBowl\10PinBowl\bin\Debug\10PinBowl.exe.config
+C:\Users\anupam\Documents\Visual Studio 2015\Projects\10PinBowl\10PinBowl\bin\Debug\10PinBowl.exe
+C:\Users\anupam\Documents\Visual Studio 2015\Projects\10PinBowl\10PinBowl\bin\Debug\10PinBowl.pdb
+C:\Users\anupam\Documents\Visual Studio 2015\Projects\10PinBowl\10PinBowl\obj\Debug\10PinBowl.exe
+C:\Users\anupam\Documents\Visual Studio 2015\Projects\10PinBowl\10PinBowl\obj\Debug\10PinBowl.pdb
